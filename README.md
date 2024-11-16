@@ -1,4 +1,3 @@
-An UI Project about Star Wars characters with a public GraphQL API.
+A React project developed during a live coding interview in two hours, utilizing a public Star Wars GraphQL API.
 
-
-Tech Stack : React.js, TailwindCSS, GraphQL
+React.js, TailwindCSS, GraphQL
